@@ -1,0 +1,82 @@
+.about-container
+    display: flex
+    align-items: center
+    width: 100%
+
+    img
+        width: 100%
+
+    .sobre-text
+        display: flex
+        justify-content: center
+        color: #838282
+
+        span
+            font-weight: bold
+            color: #fff
+
+
+@media screen and (min-width: 320px) and (max-width: 480px)
+    .about-container
+        flex-direction: column
+
+        img
+            width: 100%
+
+    .sobre-text
+        flex-direction: column
+        margin-top: 20px
+
+@media screen and (min-width: 481px) and (max-width: 768px)
+    .about-container
+        flex-direction: column
+
+        img
+            width: 70%
+
+    .sobre-text
+        flex-direction: column
+        margin-top: 20px
+        width: 70%
+        margin: 0 auto
+
+@media screen and (min-width: 769px) and (max-width: 1024px)
+    .about-container
+        flex-direction: column
+
+        img
+            width: 70%
+            margin-bottom: 30px
+
+    .sobre-text
+        flex-direction: column
+        width: 70%
+        margin: 0 auto 
+
+@media screen and (min-width: 1025px) and (max-width: 1200px)
+    .about-container
+        flex-direction: column
+
+        img
+            width: 70%
+            margin-bottom: 30px
+
+    .sobre-text
+        flex-direction: column
+        width: 70%
+        margin: 0 auto 
+        font-size: 1.2rem
+
+@media screen and (min-width: 1201px)
+    .about-container
+        flex-direction: column
+
+        img
+            width: 60%
+            margin-bottom: 30px
+
+    .sobre-text
+        flex-direction: column
+        width: 60%
+        margin: 0 auto 
+        font-size: 1.2rem

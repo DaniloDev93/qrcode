@@ -1,0 +1,4 @@
+bibliotecas utilizadas
+
+react-qr-code 
+qrcode

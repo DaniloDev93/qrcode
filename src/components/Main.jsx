@@ -44,7 +44,7 @@ const Main = () => {
                     </form>
                 </div>
 
-                <p className='sobre-title'>Saiba mais <RxDoubleArrowDown/></p>
+                    <p className='sobre-title'>Saiba mais <RxDoubleArrowDown/></p>
            </div>
         </>
     )

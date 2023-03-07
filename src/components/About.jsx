@@ -17,8 +17,8 @@ const About = () => {
                         aparelhos celular ou por aplicativos baixados nos mesmos.</p><br/>
                         <p>Por ser um código visual, ele pode ser lido de forma digital, estando em um dispositivo eletrônico
                         por exemplo, ou física, quando impresso em algum lugar.</p> 
-                        <p>Dessa forma, acaba sendo uma ferramente acessível e de fácil uso.</p><br/> Ele pode estar presente em todos os tipos de indústria, como
-                        varejo, marketing e logística.
+                        <p>Dessa forma, acaba sendo uma ferramente acessível e de fácil uso.</p><br/> <p>Ele pode estar presente em todos os tipos de indústria, como
+                        varejo, marketing e logística.</p>
                 </div>
             </div>
         </>

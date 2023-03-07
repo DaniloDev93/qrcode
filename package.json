@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://DaniloDev93.github.io/qrcode",
+  "homepage": "https://DaniloDev93.github.io/qrcodegenerator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
